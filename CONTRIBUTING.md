@@ -1,17 +1,17 @@
 # CONTRIBUTING.md
 
-It's hard. It's always hard the first time you do something, especially when you search for some perfect examples of projects to start. There's no other better way of learning than by actually doing. So, are you always on hunt for project ideas to work with in ReactJS? Do you keep finding nothing more than Todo list and Calculator? I understand your pain.
+It's hard. It's always hard the first time you do something, especially when you search for some perfect examples of projects to start. There's no other better way to learn than by actually doing. So, are you always on the hunt for project ideas to work with in ReactJS? Do you keep finding nothing more than a Todo list and Calculator? I understand your pain.
 Here is a list of 99 projects anybody interested in learning and understanding moving parts of ReactJS should develop.
 
 
 
 
-##### NOTE : Read the official React documentation for couple of days. Read few articles. Watch couple of videos. And, once you are able to grasp core concepts, start working on each of these projects to become master of ReactJS library.
+##### NOTE : Read the official React documentation for a couple of days. Read few articles. Watch a couple of videos. And, once you are able to grasp the core concepts, start working on each of these projects to become a master of the ReactJS library.
 
 Have you got some project ideas already? Feel free to fork this repo, contribute and make a Pull Request. Please maintain the consistency of repo structure if you decide to do so.
 
 ## Fork this repository
-Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+Fork this repository by clicking on the fork button at the top of this page. This will create a copy of this repository in your account.
 
 ## Clone the repository
 
@@ -61,14 +61,14 @@ Push your changes using the command git push:
 Replace <add-your-branch-name> with the name of the branch you created earlier.
 
 ## Submit your changes for review
-Now, If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
+Now, if you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 
 ## Create a pull request
 
-Now submit the pull request. Soon I'll be merging all your changes into the master branch of this project after reveiwing. 
+Now submit the pull request. Soon I'll be merging all your changes into the master branch of this project after reviewing. 
   
   
 # 99-reactjs-project-ideas
 
 Goal: 99 Projects  
-Current: 4 Projects
+Current: 8 Projects
